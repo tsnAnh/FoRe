@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34951888279",
+    "firebase_url": "https://vinshare-67a3d.firebaseio.com",
+    "project_id": "vinshare-67a3d",
+    "storage_bucket": "vinshare-67a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34951888279:android:19d7b2d6a66bc215cb18d2",
+        "android_client_info": {
+          "package_name": "dev.tsnanh.fore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34951888279-3f5hqrsbqh6qf8jf5rbukhuq9a7fckra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tsnanh.fore",
+            "certificate_hash": "7856cfee8f3f5f785ccfc6328f4419f75be2cd76"
+          }
+        },
+        {
+          "client_id": "34951888279-ttce5utqan1fv063tu0kcj0t7qm7nj9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJZbkJ_vDwMaRMgmVchSEm46jfBH3lUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34951888279-3cke4vh6irtirvqnn6go0br0od3sl7aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
